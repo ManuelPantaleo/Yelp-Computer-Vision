@@ -1,2 +1,2 @@
 # Yelp-Computer-Vision
-Deep Learning (DNNs, CNNs, Transfer-Learning) classification for Yelp photos. Assignment for Machine Learning Course at NOVA SBE MSc in Business Analytics.
+This analysis aims at developing a photo classification system using deep Learning techniques such as DNNs, CNNs and transfer-Learning for Yelp photos.
